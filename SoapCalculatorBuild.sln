@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapCalculatorBuild", "SoapCalculatorBuild\SoapCalculatorBuild.csproj", "{5F8FDA8D-9C1B-4743-9B6D-4E47F80C3330}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapCalculatorBuildTests", "SoapCalculatorBuildTests\SoapCalculatorBuildTests.csproj", "{7095D004-D0CF-4A6B-A3BB-2D9B59B60744}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F8FDA8D-9C1B-4743-9B6D-4E47F80C3330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8FDA8D-9C1B-4743-9B6D-4E47F80C3330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8FDA8D-9C1B-4743-9B6D-4E47F80C3330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7095D004-D0CF-4A6B-A3BB-2D9B59B60744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7095D004-D0CF-4A6B-A3BB-2D9B59B60744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7095D004-D0CF-4A6B-A3BB-2D9B59B60744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7095D004-D0CF-4A6B-A3BB-2D9B59B60744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
